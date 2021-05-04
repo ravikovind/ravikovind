@@ -12,4 +12,4 @@
 
 
 
-<img src = "https://github-readme-stats.vercel.app/api?username=ravikovind&&show_icons=true&title_color=FFFFFF&icon_color=F9A826&text_color=FFFFFF&bg_color=151515">
+<img src = "https://github-readme-stats.vercel.app/api?username=ravikovind&&show_icons=true&title_color=F9A826&icon_color=F9A826&text_color=000000&bg_color=ffffff">
