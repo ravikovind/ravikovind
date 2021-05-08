@@ -8,3 +8,4 @@
 # About :
 - Final year undergrad at NIT Allahabad.
 Interested : Technology, startups, businesses, Mobile Application Development, ML, AI.
+# ![](https://github-readme-stats.vercel.app/api?username=ravikovind&&show_icons=true&title_color=6C63FF&icon_color=6C63FF&text_color=F9A826)
