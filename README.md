@@ -6,7 +6,7 @@
 - [<img src = "https://camo.githubusercontent.com/c4c06a397ab9bdae3a07af592524a7fc3b8ddc91c161332951b12ce5f5079959/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f66616365626f6f6b2d2532333138373746322e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465">](https://www.facebook.com/theravikovind)
 #
 # Portfolio
-- [Click here](https://ravikovind.github.io/me/)
+- [Click here](https://ravikovind.github.io/)
 # About :
 - Final year undergrad at NIT Allahabad.
 Interested : Technology, startups, businesses, Mobile Application Development, ML, AI.
