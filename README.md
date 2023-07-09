@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **`React`** and **`NodeJs`**.
 - 💬 Ask me about **`Flutter`** and **`Dart`**.
 - 📫 How to reach me: [**`ravikovind.github.io`**](https://ravikovind.github.io/).
-- 📫 Bangalore, India 🇮🇳
+- 📍 Bangalore, India 🇮🇳
 
 
 ## Open Source Contribution
