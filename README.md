@@ -40,6 +40,3 @@ Unleashing Limitless Potential: Expertly Crafting Cutting-Edge Cross-Platform Ap
 
 Feel free to reach out for collaboration or just to say hello! 😊
 
----
-[![](https://visitcount.itsvg.in/api?id=ravikovind&icon=2&color=0)](https://visitcount.itsvg.in)
-
