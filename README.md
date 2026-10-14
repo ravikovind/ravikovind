@@ -1,8 +1,6 @@
 # Hey there! 👋 I am using GitHub
 I'm Ravi Kovind, a passionate software developer based in Bangalore, India. I specialize in building cross-platform applications and exceptional websites, utilizing a range of technologies.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravikovind&label=Views&color=blue&style=plastic&style=for-the-badge" alt="ravikovind" /> </p>
-
 
 **Location:** Bangalore, India (UTC +5:30)
 
